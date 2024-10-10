@@ -25,7 +25,7 @@ const textos = {
             p1: "No seas la copia de nadie.",
             p2: "Mejor sé la inspiración de muchos."
         },
-        address: "", // Información no proporcionada
+        address: email, // Información no proporcionada
         phone: numeroWhatsApp,
         email: email,
         facebook: "https://www.facebook.com/profile.php?id=100009135271755&mibextid=ZbWKwL",
